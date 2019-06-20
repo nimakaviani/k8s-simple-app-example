@@ -1,0 +1,1 @@
+{"jobID":"57a94e40-64d1-c62e-64b3-d0eb6bc76582","spec":{"type":"policy","cause":{"Message":"","User":"nemo c \u003cnemo.caviani@gmail.com\u003e"},"spec":{"default:deployment/simple-app":{"add":{"automated":"true"},"remove":null}}},"result":null}
