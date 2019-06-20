@@ -16,8 +16,6 @@ kind: Deployment
 metadata:
   namespace: default
   name: simple-app
-  annotations:
-    flux.weave.works/automated: 'true'
 spec:
   selector:
     matchLabels:
